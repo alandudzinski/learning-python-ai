@@ -1,2 +1,2 @@
-# learning-python-ai
-Learning Python with Artificial Intelligence
+# Learning Python + AI Projects
+This repository contains projects from my 90-day AI & Computer Engineering income growth plan.
